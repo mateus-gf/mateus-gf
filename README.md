@@ -1,4 +1,4 @@
-Ad maiorem Dei gloriam
+Ad maiorem gloriam Christi!
 
 "Ego sum lux mundi; qui sequitur me, non ambulat in tenebris, sed habebit lumen vitae" (Jn, 8,12)
 
