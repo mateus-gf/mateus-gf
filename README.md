@@ -27,4 +27,4 @@ I am more than happy to assist with any clarifications or further support you mi
 
 ---
 
-**Ad Maiorem Dei Gloriam**
+Non nobis, Domine, non nobis: sed Nomini Tuo da gloriam!
