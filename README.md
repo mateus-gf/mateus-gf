@@ -9,9 +9,9 @@ This repository serves as a collection of useful functions and codes that I've d
 
 In this space, you'll find:
 
-- 📂 **Functions:** Efficient and reusable codes which I used in my articles and/or academic applications.
-- 🛠️ **Tools:** Scripts and utilities that have supported my research and projects.
-- 📊 **Examples:** Codes with applications and examples to demonstrate the use of my programmes.
+- **Functions:** Efficient and reusable codes which I used in my articles and/or academic applications.
+- **Tools:** Scripts and utilities that have supported my research and projects.
+- **Examples:** Codes with applications and examples to demonstrate the use of my programmes.
 
 Feel free to explore and use my codes as you see fit. 
 
