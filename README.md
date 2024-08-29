@@ -27,4 +27,5 @@ I am more than happy to assist with any clarifications or further support you mi
 
 ---
 
-Non nobis, Domine, non nobis: sed Nomini Tuo da gloriam!
+_"Non nobis, Domine, non nobis: sed nomini tuo da gloriam!"_  
+*(Psalmus 113)*
