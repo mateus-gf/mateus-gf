@@ -19,9 +19,9 @@ Feel free to explore and use my codes as you see fit.
 
 Your questions, feedback, or requests for assistance are always welcome! Please feel free to contact me through my e-mails. 
 
-- **Email:** [mateus.gonzalez@hotmail.com](mailto:mateus.gonzalez@hotmail.com)
-- **Email:** [mateusgf@ime.usp.br](mailto:mateusgf@ime.usp.br)
-- **Email:** [mateus.pinto@fgv.br](mailto:mateus.pinto@fgv.br)
+- [mateus.gonzalez@hotmail.com](mailto:mateus.gonzalez@hotmail.com)
+- [mateusgf@ime.usp.br](mailto:mateusgf@ime.usp.br)
+- [mateus.pinto@fgv.br](mailto:mateus.pinto@fgv.br)
 
 I am more than happy to assist with any clarifications or further support you might need.
 
