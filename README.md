@@ -21,7 +21,6 @@ Your questions, feedback, or requests for assistance are always welcome! Please 
 
 - [mateus.gonzalez@hotmail.com](mailto:mateus.gonzalez@hotmail.com)
 - [mateusgf@ime.usp.br](mailto:mateusgf@ime.usp.br)
-- [mateus.pinto@fgv.br](mailto:mateus.pinto@fgv.br)
 
 I am more than happy to assist with any clarifications or further support you might need.
 
