@@ -1,9 +1,9 @@
-# Ad Maiorem Dei Gloriam ✝️
+## Ad Maiorem Dei Gloriam ✝️
 
 _"Ego sum lux mundi; qui sequitur me, non ambulat in tenebris, sed habebit lucem vitae."_  
 *(Io, 8:12)*
 
-## Welcome to my GitHub repository! :) 
+### Welcome to my GitHub repository! :) 
 
 This repository serves as a collection of useful functions and codes that I've developed for academic purposes.  
 
@@ -15,7 +15,7 @@ In this space, you'll find:
 
 Feel free to explore and use my codes as you see fit. 
 
-## 🤝 Get in Touch
+### Get in Touch
 
 Your questions, feedback, or requests for assistance are always welcome! Please feel free to contact me through my e-mails. 
 
