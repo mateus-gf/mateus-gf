@@ -1,4 +1,4 @@
-## Ad Maiorem Dei Gloriam ✝️
+## Ad Maiorem Dei Gloriam 
 
 _"Ego sum lux mundi; qui sequitur me, non ambulat in tenebris, sed habebit lucem vitae."_  
 *(Io, 8:12)*
